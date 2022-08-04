@@ -1,6 +1,7 @@
 # OWASP juice shop solutions
 
-Revisited to prepare for OSWE! https://github.com/juice-shop/juice-shop. 
+Revisited to prepare for OSWE! https://github.com/juice-shop/juice-shop.
+
 
 ## Installation
 
